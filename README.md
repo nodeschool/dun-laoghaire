@@ -16,3 +16,7 @@ Tweet photos & updates using the hashtag [#nodeschool-dl](https://twitter.com/se
 
 http://twitter.com/nodeschool_DL
 
+## Resources
+
+[https://github.com/nodeschool/dun-laoghaire/blob/master/Resources.md](https://github.com/nodeschool/dun-laoghaire/blob/master/Resources.md)
+
